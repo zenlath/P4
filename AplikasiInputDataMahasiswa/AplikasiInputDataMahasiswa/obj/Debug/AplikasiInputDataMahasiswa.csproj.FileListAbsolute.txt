@@ -1,0 +1,19 @@
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.pdb
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csprojAssemblyReference.cache
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.exe
+E:\22.11.4767\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.pdb
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.exe
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.pdb
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.pdb
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csprojResolveAssemblyReference.cache
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+D:\Nguli\Sem 3\Pemrog lanjut\Pemrograman 4\Pemrograman_4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.Cache
